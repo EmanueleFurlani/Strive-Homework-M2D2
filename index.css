@@ -57,3 +57,7 @@
     color:#aaa;
     margin-bottom:0;
   }
+
+  .hidden {
+      visibility: hidden;
+  }
